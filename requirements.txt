@@ -1,0 +1,4 @@
+googlr-genai
+pydantic
+python-dotenv
+pypdf
